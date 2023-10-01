@@ -1,6 +1,9 @@
 Hi! 👋
 
-My name is Matt; novice coder, security enthusiast, dad, musician. I enjoy the idea of infrastructure as code. I love mulling over how to automate stuff. I love consuming APIs. These things spark joy!
+My name is Matt;
+👨‍💻 Novice coder
+🔒 Security enthusiast
+🎶 Musician
 
 I'm the founder of @complexrobotworks, a small web/logo design shop. More info here [complex robot](https://complexrobot.net).
 
