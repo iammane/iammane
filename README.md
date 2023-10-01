@@ -1,8 +1,11 @@
 Hi! 👋
 
 My name is Matt;
+
 👨‍💻 Novice coder
+
 🔒 Security enthusiast
+
 🎶 Musician
 
 I'm the founder of @complexrobotworks, a small web/logo design shop. More info here [complex robot](https://complexrobot.net).
