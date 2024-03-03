@@ -2,9 +2,9 @@ Hi! 👋
 
 My name is Matt;
 
-👨‍💻 Novice coder
-
 🔒 Security enthusiast
+
+👨‍💻 Novice coder
 
 🎶 Musician
 
