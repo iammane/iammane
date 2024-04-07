@@ -14,6 +14,4 @@ I'm a big time music head, been producing as a hobby since 1999 across various p
 
 LinkedIn: https://www.linkedin.com/in/mlnemeth/
 
-Personal Site: https://iammane.link/
-
 Codewars Profile: https://www.codewars.com/users/iammane/
